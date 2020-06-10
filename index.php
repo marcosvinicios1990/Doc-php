@@ -23,4 +23,14 @@ $resultado = $numero1 + $numero2;
 
 echo $resultado;
 
+$numero1 = 3450;
+$numero2 = 10200;
+
+$resultado = $numero1 + $numero2;
+
+echo $resultado;
+
+
+
+
 ?>
